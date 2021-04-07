@@ -1,6 +1,6 @@
 ## Olá Pessoas, Lucas Teles aqui 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/lucasteles42?style=flat-square&color=blueviolet)
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnI7fLVMhv28rjcUH-fON0w?color=blueviolet&style=flat-square)
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnI7fLVMhv28rjcUH-fON0w?color=blueviolet&style=flat-square&label=YouTube)
 ![Twitch](https://img.shields.io/twitch/status/LucasTeles42?style=flat-square&color=blueviolet)
 
 **Podcaster, agilista, speaker, entusiasta de teclados mecânicos, evangelista de Vim e aprendiz de GameDev**  
