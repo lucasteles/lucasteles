@@ -12,7 +12,8 @@ _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#
 * 🎙  Tenho um podcast chamado [RebuildCast](https://lucasteles.dev/tag/podcast/) onde bato uns papos bem legais com uma galera fera.
 * 📹  Tenho um canal no [YouTube](https://www.youtube.com/user/Lucas1teles/featured), nada muito consistente mas espero logo produzir mais :)
 * 👾  Tenho focado em gamedev nos ultimos tempos, pode conferir meus prototipos [aqui](https://lucasteles.itch.io/)
-* ❓ Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles)](https://github.com/lucasteles/lucasteles/issues)
+* 🗣  Slides de palestras [aqui](https://www.slideshare.net/LucasTeles25)
+* ❓  Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles?color=purple)](https://github.com/lucasteles/lucasteles/issues)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucasteles&theme=synthwave&count_private=true&show_icons=true)
