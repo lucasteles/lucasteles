@@ -22,4 +22,4 @@ _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#
 
 ### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasteles&no-frame=true&theme=synthwave&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasteles&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/lucasteles/github-profile-trophy)
