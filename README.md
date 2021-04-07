@@ -20,6 +20,3 @@ _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#
 ![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteles&theme=synthwave&layout=compact)
 
 
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasteles&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/lucasteles/github-profile-trophy)
