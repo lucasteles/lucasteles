@@ -1,7 +1,7 @@
 ## Olá Pessoas, Lucas Teles aqui 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/lucasteles42?style=flat-square&color=blueviolet)
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnI7fLVMhv28rjcUH-fON0w?color=blueviolet&style=flat-square&label=YouTube)
-![Twitch](https://img.shields.io/twitch/status/LucasTeles42?style=flat-square&color=blueviolet)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lucasteles42?style=flat-square&color=blueviolet)](https://twitter.com/LucasTeles42)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnI7fLVMhv28rjcUH-fON0w?color=blueviolet&style=flat-square&label=YouTube)](https://www.youtube.com/user/Lucas1teles)
+[![Twitch](https://img.shields.io/twitch/status/LucasTeles42?style=flat-square&color=blueviolet)](https://www.twitch.tv/lucasteles42)
 
 **Podcaster, agilista, speaker, entusiasta de teclados mecânicos, evangelista de Vim e aprendiz de GameDev**  
 
