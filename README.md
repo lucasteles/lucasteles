@@ -7,7 +7,7 @@
 
 _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#](https://fsharp.org/)_
 
-* 💜  Trabalho como Engenheiro de Software no Nunbak .
+* 💜  Trabalho como Engenheiro de Software no Nubank.
 * 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
 * 🎙  Tenho um podcast chamado [RebuildCast](https://lucasteles.dev/) onde bato uns papos bem legais com uma galera fera.
 * 📹  Tenho um canal no [YouTube](https://www.youtube.com/user/Lucas1teles/featured), nada muito consistente mas espero logo produzir mais :)
