@@ -5,7 +5,7 @@
 
 **Podcaster, agilista, speaker, entusiasta de teclados mecânicos, evangelista de Vim e aprendiz de GameDev**  
 
-_Amo programação funcional e provavelmente vou tentar te convencer de usar [F#](https://fsharp.org/)_
+_Gosto programação funcional e provavelmente vou tentar te convencer de usar [F#](https://fsharp.org/)_
 
 * 💜  Trabalho como Engenheiro de Software no Nunbak .
 * 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
