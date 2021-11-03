@@ -18,21 +18,21 @@ _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#
 
 ### Current Stack 👩🏽‍💻
 
-<code><img width="24" src="logos/dotnet" alt="dotnet"/></code> 
-<code><img width="24" src="" alt="csharp"/></code> 
-<code><img width="24" src="" alt="fsharp"/></code> 
-<code><img width="24" src="" alt="javascript"/></code> 
-<code><img width="24" src="" alt="typescript"/></code> 
-<code><img width="24" src="" alt="lua"/></code> 
-<code><img width="24" src="" alt="cpp"/></code> 
-<code><img width="24" src="" alt="clojure"/></code> 
-<code><img width="24" src="" alt="unity"/></code> 
-<code><img width="24" src="" alt="monogame"/></code> 
-<code><img width="24" src="" alt="unreal"/></code> 
-<code><img width="24" src="" alt="xamarin"/></code> 
-<code><img width="24" src="" alt="docker"/></code> 
-<code><img width="24" src="" alt="azure"/></code> 
-<code><img width="24" src="" alt="git"/></code>
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/dotnet.png" alt="dotnet"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/csharp.png" alt="csharp"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/fsharp.png" alt="fsharp"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/js.png" alt="javascript"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/typescript.png" alt="typescript"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/lua.png" alt="lua"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/cpp.png" alt="cpp"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/clojure.png" alt="clojure"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unity.png" alt="unity"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/monogame.png" alt="monogame"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unreal.png" alt="unreal"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/xamarin.png" alt="xamarin"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/docker.png" alt="docker"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/azure.png" alt="azure"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/git.png" alt="git"/></code>
 
 - Programming: C#, F#, JavaScript, TypeScript, Lua, C/C++, Clojure
 - Gaming Engines: Unity, Monogame, Unreal, PICO-8
