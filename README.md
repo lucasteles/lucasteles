@@ -16,6 +16,33 @@ _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#
 * ❓  Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles?color=purple)](https://github.com/lucasteles/lucasteles/issues)
 
 
+### Current Stack 👩🏽‍💻
+
+<code><img width="24" src="logos/dotnet" alt="dotnet"/></code> 
+<code><img width="24" src="" alt="csharp"/></code> 
+<code><img width="24" src="" alt="fsharp"/></code> 
+<code><img width="24" src="" alt="javascript"/></code> 
+<code><img width="24" src="" alt="typescript"/></code> 
+<code><img width="24" src="" alt="lua"/></code> 
+<code><img width="24" src="" alt="cpp"/></code> 
+<code><img width="24" src="" alt="clojure"/></code> 
+<code><img width="24" src="" alt="unity"/></code> 
+<code><img width="24" src="" alt="monogame"/></code> 
+<code><img width="24" src="" alt="unreal"/></code> 
+<code><img width="24" src="" alt="xamarin"/></code> 
+<code><img width="24" src="" alt="docker"/></code> 
+<code><img width="24" src="" alt="azure"/></code> 
+<code><img width="24" src="" alt="git"/></code>
+
+- Programming: C#, F#, JavaScript, TypeScript, Lua, C/C++, Clojure
+- Gaming Engines: Unity, Monogame, Unreal, PICO-8
+- Server Technologies: OData, gRPC, Rest, RabbitMQ, Kafka, Sockets, SignalR
+- Mobile: Xamarin/MAUI,
+- Infra: Docker, Azure, Git, CI (Github-Actions, Azure Devops)
+- Databases: SQL Server, SQLite, Postgres, CosmosDB, MongoDB, MySql, Datomic
+- Agile practices: TDD, CI/CD, Scrum, Kanban, Pair Programming
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucasteles&theme=synthwave&count_private=true&show_icons=true)
 ![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteles&theme=synthwave&layout=compact)
 
