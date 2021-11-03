@@ -16,7 +16,7 @@ _Amo programação funcional e provavelmente vou tentar te convencer de usar [F#
 * ❓  Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles?color=purple)](https://github.com/lucasteles/lucasteles/issues)
 
 
-### Current Stack 👩🏽‍💻
+### Current Stack 👨🏾‍💻
 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/dotnet.png" alt="dotnet"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/csharp.png" alt="csharp"/></code> 
