@@ -7,7 +7,7 @@
 
 _Gosto programação funcional e provavelmente vou tentar te convencer de usar [F#](https://fsharp.org/)_
 
-* 💜  Trabalho como Engenheiro de Software no Nunbak .
+* 💜  Trabalho como Engenheiro de Software na [a55](https://a55.tech/).
 * 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
 * 🎙  Tenho um podcast chamado [RebuildCast](https://lucasteles.dev/) onde bato uns papos bem legais com uma galera fera.
 * 📹  Tenho um canal no [YouTube](https://www.youtube.com/user/Lucas1teles/featured), nada muito consistente mas espero logo produzir mais :)
@@ -25,7 +25,7 @@ _Gosto programação funcional e provavelmente vou tentar te convencer de usar [
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/typescript.png" alt="typescript"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/lua.png" alt="lua"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/cpp.png" alt="cpp"/></code> 
-<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/clojure.png" alt="clojure"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/python.png" alt="python"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unity.png" alt="unity"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/monogame.png" alt="monogame"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unreal.png" alt="unreal"/></code> 
