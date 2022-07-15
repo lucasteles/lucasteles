@@ -24,11 +24,10 @@ _Gosto programação funcional e provavelmente vou tentar te convencer de usar [
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/js.png" alt="javascript"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/typescript.png" alt="typescript"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/lua.png" alt="lua"/></code> 
-<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/cpp.png" alt="cpp"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/python.png" alt="python"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/clojure.png" alt="clojure"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unity.png" alt="unity"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/monogame.png" alt="monogame"/></code> 
-<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unreal.png" alt="unreal"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/xamarin.png" alt="xamarin"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/docker.png" alt="docker"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/azure.png" alt="azure"/></code> 
