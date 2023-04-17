@@ -28,7 +28,6 @@ _Gosto programação funcional e provavelmente vou tentar te convencer de usar [
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/monogame.png" alt="monogame"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/xamarin.png" alt="xamarin"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/lua.png" alt="lua"/></code> 
-<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/python.png" alt="python"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/clojure.png" alt="clojure"/></code> 
 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/git.png" alt="git"/></code>
