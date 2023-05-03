@@ -8,12 +8,13 @@
 
 _Gosto programação funcional e provavelmente vou tentar te convencer de usar [F#](https://fsharp.org/)_
 
-* 💜  Trabalho como lider em engenharia de software na [a55](https://a55.tech/).
-* 🙏  Participo da organização do [High5Devs](http://high5devs.com/).
+* 💜 Trabalho como lider em engenharia de software na [a55](https://a55.tech/).
+* 🙏 Participo da organização do [High5Devs](http://high5devs.com/).
 * 🎙  Tenho um podcast chamado [RebuildCast](https://lucasteles.dev/) onde bato uns papos bem legais com uma galera fera.
-* 📹  Tenho um canal no [YouTube](https://www.youtube.com/user/Lucas1teles/featured), nada muito consistente mas espero logo produzir mais :)
-* 👾  Sou entusiasta de GameDev, pode conferir meus prototipos [AQUI](https://lucasteles.itch.io/)
+* 📹 Tenho um canal no [YouTube](https://www.youtube.com/user/Lucas1teles/featured), nada muito consistente mas espero logo produzir mais :)
+* 👾 Sou entusiasta de GameDev, pode conferir meus prototipos [AQUI](https://lucasteles.itch.io/)
 * 🗣  Slides de palestras [aqui](https://www.slideshare.net/LucasTeles25)
+* 🌈 Meu perfil no [TDC](https://thedevconf.com/palestrante/LucasTeles)
 * ❓  Quer me mandar alguma pergunta? Abre uma issue aqui [![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles?color=purple)](https://github.com/lucasteles/lucasteles/issues)
 
 
