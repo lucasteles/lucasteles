@@ -1,4 +1,5 @@
 ## Olá Pessoas, Lucas Teles aqui 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lteles)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucasteles42?color=blueviolet&label=%40lucasteles42&logo=twitter&style=flat-square)](https://twitter.com/LucasTeles42)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnI7fLVMhv28rjcUH-fON0w?label=YouTube&logo=youtube&style=flat-square&color=blueviolet&logoColor=red)](https://www.youtube.com/user/Lucas1teles)
 [![Twitch](https://img.shields.io/twitch/status/lucasteles42?color=blueviolet&logo=twitch&style=flat-square)](https://www.twitch.tv/lucasteles42)
