@@ -32,7 +32,9 @@
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/azure.png" alt="azure"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/aws.png" alt="aws"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/blender.png" alt="blender"/></code> 
+
 <hr/>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucasteles&theme=synthwave&count_private=true&show_icons=true)
 
 ![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteles&theme=synthwave&layout=compact)
