@@ -7,14 +7,9 @@
 [![BlueSky](https://img.shields.io/badge/%7F-@lucasteles42-blueviolet?&logo=bluesky&logoColor=white)](https://bsky.app/profile/lucasteles42.bsky.social)
 [![Discord](https://img.shields.io/badge/%7F-lucasteles-blueviolet?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/202255104991166464)
 
-<hr/>
 
-### Info 💡
-
-* 🗣  [Slides](https://www.slideshare.net/LucasTeles25)
-* 🌈 [TDC](https://thedevconf.com/palestrante/LucasTeles)
-* ❓  [Perguntas? ![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles?color=purple)](https://github.com/lucasteles/lucasteles/issues)
-* 🔗 [Links](https://linktr.ee/lucasteles42)
+- 🔗 [Mais Links](https://linktr.ee/lucasteles42) 
+- ❓ [Perguntas? ![Send your question](https://badgen.net/github/open-issues/lucasteles/lucasteles?color=purple)](https://github.com/lucasteles/lucasteles/issues)
 
 <hr/>
 
