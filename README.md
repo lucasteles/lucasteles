@@ -21,8 +21,6 @@
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/js.png" alt="javascript"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/typescript.png" alt="typescript"/></code>
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/react.png" alt="react"/></code> 
-<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unity.png" alt="unity"/></code> 
-<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/monogame.png" alt="monogame"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/lua.png" alt="lua"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/clojure.png" alt="clojure"/></code> 
 
@@ -31,6 +29,10 @@
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/terraform.png" alt="terraform"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/azure.png" alt="azure"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/aws.png" alt="aws"/></code> 
+
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/unity.png" alt="unity"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/monogame.png" alt="monogame"/></code> 
+<code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/godot.png" alt="godot"/></code> 
 <code><img width="24" src="https://raw.githubusercontent.com/lucasteles/lucasteles/main/logos/blender.png" alt="blender"/></code> 
 
 <hr/>
