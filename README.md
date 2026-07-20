@@ -41,5 +41,7 @@
 
 All my game dev work lives on the [Delta3](https://github.com/Delta3-Studio) organization
 
-[<img src="https://raw.githubusercontent.com/Delta3-Studio/.github/refs/heads/main/logos/header.png" width="500px" alt="Delta3"/>](https://github.com/Delta3-Studio)
+<a href="https://github.com/Delta3-Studio" target="_blank">
+  <img src="https://raw.githubusercontent.com/Delta3-Studio/.github/refs/heads/main/logos/header.png" width="500px" alt="Delta3" target="_blank"/>
+</a>
 
