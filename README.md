@@ -37,8 +37,9 @@
 
 <hr/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lucasteles&theme=synthwave&count_private=true&show_icons=true)
+### Game Dev
 
-![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasteles&theme=synthwave&layout=compact)
+All my game-dev stuff is at [Delta3](https://github.com/Delta3-Studio) organization
 
+[<img src="https://raw.githubusercontent.com/Delta3-Studio/.github/refs/heads/main/logos/header.png" width="500px" alt="Delta3"/>](https://github.com/Delta3-Studio)
 
